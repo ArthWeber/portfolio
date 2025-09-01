@@ -30,6 +30,42 @@ const Projetos = () => (
       <li>
         <APIProject />
       </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
+      <li>
+        <APIProject />
+      </li>
     </Lista>
   </section>
 )
